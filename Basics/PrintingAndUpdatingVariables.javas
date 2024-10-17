@@ -1,0 +1,16 @@
+package Basics;
+
+public class PrintingAndUpdatingVariables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 5;
+		System.out.println(x);
+		x = 7;
+		System.out.println(x);
+		x = x + 3;
+		System.out.println(x);
+
+	}
+
+}
